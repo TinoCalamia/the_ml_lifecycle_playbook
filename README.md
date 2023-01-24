@@ -1,5 +1,7 @@
 # The Machine Learning Lifecycle Playbook
 
+![63d0469d93d7130494512e2a](https://user-images.githubusercontent.com/56636702/214412283-55607786-2ba9-4d41-a66b-c76ee27a8c38.jpg)
+
 Welcome to the Machine Learning Lifecycle Playbook Repository!
 
 This repository is dedicated to providing information and explanations about best practices for structuring machine learning projects. It contains information on the various stages of the lifecycle such as data collection, preprocessing, model development, testing, and deployment. The goal of this repository is to provide a resource for organizations and individuals looking to standardize their machine learning projects.
