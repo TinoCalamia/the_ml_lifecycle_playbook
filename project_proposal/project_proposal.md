@@ -4,6 +4,10 @@ A project proposal for machine learning is a document that provides a detailed d
 Writing a proposal forces the team to clearly define the objectives, methods, and outcomes of the project, which can help to plan and organize the work more effectively.
 It can also be used to communicate the details of the project to stakeholders, including team members, project sponsors, and other interested parties.
 
+
+<img width="1083" alt="Screenshot 2023-01-24 at 17 52 25" src="https://user-images.githubusercontent.com/56636702/214356470-9e5a5c82-2bdb-42f7-9eea-cff37989032a.png">
+
+
 ## 1. Problem statement
 The problem statement of a machine learning project proposal is a clear and concise description of the problem that the project aims to solve. It should include the following elements:
 
