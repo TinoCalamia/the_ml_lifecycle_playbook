@@ -73,7 +73,7 @@ This section should be written in a way that is easy to understand, and it shoul
 *Based on the industry averages and case studies, it's estimated that a significant increase in open and click-through rates can result in a substantial increase in revenue by 20%. The return on investment for this project can be measured by the increase in profitability resulting from the improved open and click-through rates.*
 
 ## 4. Proposed solution
-The Proposed solution section describes the designed solution to the opportunity outlined in the project opportunity section. This section should provide a detailed description of the methods and techniques that will be used to address the problem and the expected outcomes of the project.
+The proposed solution section describes the designed solution to the opportunity outlined in the project opportunity section. This section should provide a detailed description of the methods and techniques that will be used to address the problem and the expected outcomes of the project.
 
 Some elements that might be included in the proposed solution section are:
 
