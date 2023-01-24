@@ -50,7 +50,7 @@ It's important to note that assumptions are not facts, they are educated guesses
 *It's important to note that these assumptions might change as the project progresses, and the team should be prepared to revisit and update them accordingly.*
 
 ## 3. Opportunity/ Use cases
-This section outlines the potential benefits and opportunities that the project aims to achieve. This section is critical for the proposal as it helps to communicate the value of the project to stakeholders, including investors, sponsors, and other interested parties.
+This section outlines the potential benefits and opportunities that the project aims to achieve. Here it is critical for the proposal as it helps to communicate the value of the project to stakeholders, including investors, sponsors, and other interested parties.
 
 Some elements that might be included in the project opportunity section are:
 
