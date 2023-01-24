@@ -186,7 +186,7 @@ Some elements that might be included in this section are:
 *To address these ethical considerations, the project team will ensure that all aspects are audited and signed of by the ethics team which is reponsible for maintaining the ethical standards.*
 
 
-## 8. Involved stakeholders
+## 8. Key stakeholders
 This section should include all the key internal stakeholders who will be impacted by the proposed solution. These are the people or groups within the organization who will be involved in the project or who will be impacted by the project outcome. Not all stakeholders have to be present in all projects all the time
 
 Some elements that might be included in this section are:
@@ -248,5 +248,5 @@ Some elements that might be included in this section are:
 
 *The project is expected to be completed within 6 months of the project start date. The project team will be responsible for ensuring that the project*
 
-## Relevant resources
+## 11. Relevant resources
 The section that collects any additional resources that will be required to complete the project. These resources may include hardware, software, equipment, or external services that are not included in the project budget or scope.
