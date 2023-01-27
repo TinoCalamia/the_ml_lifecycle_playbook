@@ -43,17 +43,8 @@ Having a template for experiments can be helpful for a company in several ways:
 
 1. Design your experiment
 2. Write the experiment design proposal
-3. Download the attached CSV file
+3. Download the experiment summary template CSV file
 4. Fill in all relevant information
 5. Share with key stakeholders and get approval
-6. In case of changes keep the file up to date
-
-
-
- 
-
-
-
-
-
+6. In case of changes keep the files up to date
 
