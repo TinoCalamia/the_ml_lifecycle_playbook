@@ -26,6 +26,13 @@ Having a template for experiments can be helpful for a company in several ways:
 | Primary KPI           | Product conversion rate: number of customers with at least 1 product adopted / # of customers in Audience  |
 | Analytical framework  | Bayesian & frequentist analysis  |
 
+## How to use
+
+1. Download the attached CSV file
+2. Fill in all relevant information
+3. Share with key stakeholders and get approval
+4. In case of changes keep the file up to date
+
 
 
  
