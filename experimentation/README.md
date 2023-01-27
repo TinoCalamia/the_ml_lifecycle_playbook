@@ -1,6 +1,10 @@
 # Experiment design
 
-## The template
+## The experiment design proposal
+
+tbd
+
+## The summary template
 An experiment template is a standardized format for conducting and documenting experiments within a company. It helps to ensure that experiments are conducted in a consistent and organized manner, which can improve the reliability and reproducibility of results.
 
 Having a template for experiments can be helpful for a company in several ways:
@@ -28,10 +32,12 @@ Having a template for experiments can be helpful for a company in several ways:
 
 ## How to use
 
-1. Download the attached CSV file
-2. Fill in all relevant information
-3. Share with key stakeholders and get approval
-4. In case of changes keep the file up to date
+1. Design your experiment
+2. Write the experiment design proposal
+3. Download the attached CSV file
+4. Fill in all relevant information
+5. Share with key stakeholders and get approval
+6. In case of changes keep the file up to date
 
 
 
