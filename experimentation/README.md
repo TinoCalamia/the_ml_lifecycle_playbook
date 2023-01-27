@@ -2,7 +2,16 @@
 
 ## The experiment design proposal
 
-tbd
+Writing a document that describes an experiment design is crucial for several reasons. 
+
+First, it ensures that all stakeholders have a clear understanding of the goals, methods, and potential outcomes of the experiment. This can help to prevent confusion and ensure that everyone is on the same page.
+
+Additionally, a written experiment design can serve as a reference for the team conducting the experiment. It can help to keep them on track and ensure that they are following the proper procedures. This can be especially important in complex or multi-faceted experiments.
+
+Having a written experiment design can also be beneficial for future teams who may want to replicate or build upon the work. A detailed experiment design allows other people to understand the methods and reasoning behind the experiment, so they can evaluate the results and make informed decisions about whether to continue the research.
+
+Furthermore, it is a good practice when it comes to scientific research, a well-written experiment design allows for the transparency of the research process, which is crucial for maintaining the trust and credibility of the scientific community.
+
 
 ## The summary template
 An experiment template is a standardized format for conducting and documenting experiments within a company. It helps to ensure that experiments are conducted in a consistent and organized manner, which can improve the reliability and reproducibility of results.
