@@ -1,3 +1,4 @@
+from datetime import datetime
 import numpy as np
 import pandas as pd
 from typing import List, Union
@@ -208,8 +209,29 @@ def check_for_uniqueness(data: pd.DataFrame, no_dup_columns: List) -> List:
 # 4. Timelineness
 #########################################################
 
-def check_data_freshness():
-  pass
+def check_data_freshness(data: pd.DataFrame, thresholds: Dict) -> Dict:
+  '''Check if all columns with dates are fresh.
+  Args:
+    data (pd.DataFrame): DataFrame containing the data that needs to be checked.
+    thresholds (Dict({string : int})): The keys represent the column and the value the number of days that the most recent entry should not exceed.
+  
+  Returns:
+    outdated_columns (Dict({string : int})): All columns with the most recent date past the threshold
+  '''
 
+  outdated_columns = {}
+
+  def get_difference(date1, date2):
+    delta = pd.to_datetime(date2) - pd.to_datetime(date1)
+    return delta.days
+
+  for column in thresholds.keys():
+    days_diff = get_difference(data[column].max(), datetime.now().date())
+
+    if days_diff> thresholds[column]:
+      print(f"Column {column} has outdated data. The most recent entry is {days_diff} days old but {thresholds[column]} is maximum accepted.")
+      outdated_columns[column] = days_diff
+
+  return outdated_columns
     
 
