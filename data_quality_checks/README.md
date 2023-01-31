@@ -9,3 +9,11 @@ I believe that standardizing data quality checks will not only improve the accur
 I hope that this code snippets will be useful to data scientists, data engineers, and anyone who is responsible for ensuring the quality of their data. If you have any questions or suggestions, please don't hesitate to reach out.
 
 Thank you for using the Data Quality Checks repository. Happy data checking!
+
+## How to use it
+
+1. Choose the quality tests which need to be performed
+2. Eventually modify the base code to meet other project's edge cases
+3. Perform all tests
+4. Add up all boolean flags that are return after the test has been performed and divide by the number of tests
+5. Use the overall quality score as evaluation for the dataset
