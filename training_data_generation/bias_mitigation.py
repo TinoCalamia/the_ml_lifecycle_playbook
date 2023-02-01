@@ -60,5 +60,8 @@ def sample_dataset(data: pd.DataFrame, majority_class: str, minority_classes: Li
   return sampled_data
 
 
-    
+# TODO: Finalize sampling function
+# More advanced sampling using SMOTE (upsampling) and RandomUnderSampler (undersampling)
+def advanced_sampling():
+  pass
 
