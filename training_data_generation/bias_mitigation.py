@@ -2,8 +2,16 @@ from typing import List
 import pandas as pd
 from sklearn.utils import resample
 
+######################################################
+# 1. Sampling methods
+######################################################
+
+
+
+# Simple over and under sampling
 def sample_dataset(data: pd.DataFrame, majority_class: str, minority_classes: List , split_column: str ,downsample = True) -> pd.DataFrame:
-  '''Sample the classes up/down equally by replicating existing rows. If downsample = True, the data will be downsampled to the class with the fewest instances.
+  '''Sample the classes up/down equally by replicating existing rows. If downsample = True, the data will be downsampled to the class with the fewest instances. 
+     If downsample=False, the minority classes will be randomly replicated to meet the majority class count. This function will not add artificially created data.
   
   Args:
     data (pd.DataFrame): DataFrame containing the data
