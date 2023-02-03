@@ -13,8 +13,8 @@ So dive in, and start building responsible AI systems today!
 
 ## How to use it DEON
 
-1.Run ```pip install deon``` in your terminal (only the first time)
-2.Create a custom checklist.yml similar to the one in this folder
+1. Run ```pip install deon``` in your terminal (only the first time)
+2. Create a custom checklist.yml similar to the one in this folder
 3. To create the custom ethics checklist run ```deon - path_to_custom_yml.yml l-o ETHICS.md``` which creates an ETHICS.md file in your current directory based on the custom yml
 
 For more information please visit (https://deon.drivendata.org/)
