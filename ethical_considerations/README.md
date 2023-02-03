@@ -1,4 +1,5 @@
 # Ethical considerations
+<img width="695" alt="Screenshot 2023-02-03 at 14 49 25" src="https://user-images.githubusercontent.com/56636702/216619346-fb041cd0-c316-4f3b-a18f-92ddf0f3293b.png">
 
 Welcome to section dedicated to ethical considerations in machine learning projects! 
 As AI and machine learning systems continue to play an increasingly important role in our lives, it is important that we consider the 
